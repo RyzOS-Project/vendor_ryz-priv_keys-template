@@ -1,9 +1,9 @@
 ```bash
-git clone https://github.com/ProjectMatrixx/android_vendor_lineage-priv_keys-template.git -b master vendor/lineage-priv/keys
+git clone https://github.com/RyzOS-Project/vendor_ryz-priv_keys-template.git -b 15 vendor/ryz-priv/keys
 ```
 
 ```bash
-cd vendor/lineage-priv/keys
+cd vendor/ryz-priv/keys
 ```
 
 ```bash
